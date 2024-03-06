@@ -1,0 +1,299 @@
+
+
+
+.menubox {
+  width: 900px;
+  height: 600px;
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(images/GB_BG_50.jpg);
+  background-size: 50%;
+  
+}
+
+#menu_C {
+  height: 3600px
+}
+
+.logobox {
+  width: 900px;
+  height: 100px;
+  background-image: url(images/GB_LOGO.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #3699f5;
+}
+
+.headerbox {
+  width: 900px;
+  height: 50px;
+  background: #3699f5;
+}
+
+.logo {
+  color: #f9b735;
+  stroke: black;
+  font-size: large;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.ourmenu {
+  width: 130px;
+  height: 30px;
+  background-color: #f9b735;
+  margin-left: 10px;
+  margin-right: 20px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 20px;
+  display: inline-block;
+  text-align: center;
+}
+
+.infobox {
+  width: 800px;
+  height: 550px;
+  border-radius: 50px;
+  /* background-image: url(images/Beige_80.jpg); */
+  margin-left: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  box-sizing: border-box;
+  background-color: #efdfbdd1;
+}
+
+.infobox_section {
+  width: 500px;
+  height: 300px;
+  text-align: justify;
+  margin-left: 250px;
+}
+
+#menu {
+  height: 400px;
+  padding-top: 30px;
+}
+
+#menu_B {
+  height: 3000px;
+  margin-top: 50px;
+  padding-top: 30px;
+  font-size: larger;
+  text-align: justify;
+}
+
+.sectionbox_B {
+  width: 775px;
+  height: 250px;
+  display: inline-flex;
+  border: none;
+  margin-right: 20px;
+}
+
+.section_textbox {
+  width: 500px;
+  height: 400px;
+  margin-right: 10px;
+}
+
+.menu_img {
+  width: 200px;
+  height: 200px;
+  border: 2pt solid white;
+  margin: 10px;
+}
+
+#img_01 {
+  background-image: url(images/EGGS_BACON-02.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -30px 0px;
+}
+
+#img_02 {
+  background-image: url(images/WAFFLES_01.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -30px 0px;
+}
+
+#img_03 {
+  background-image: url(images/FRENCH_TOAST_03.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -30px 0px;
+}
+
+#img_04 {
+  background-image: url(images/OATMEAL_01.jpg);
+  background-size: 130%;
+  background-repeat: no-repeat;
+  background-position: 0px -25px;
+}
+
+#img_05 {
+  background-image: url(images/PANCAKES.jpg);
+  background-size: 130%;
+  background-repeat: no-repeat;
+  background-position: -30px -60px;
+}
+
+#img_06 {
+  background-image: url(images/BAGEL_01.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -50px 0px;
+}
+
+#img_07 {
+  background-image: url(images/BIG_GARY.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -30px 0px;
+}
+
+#img_08 {
+  background-image: url(images/TATERS_02.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: -50px 0px;
+}
+
+#img_09 {
+  background-image: url(images/SOUP_02.jpg);
+  background-size: 150%;
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+}
+
+
+
+.itemsbox {
+  width: 120px;
+  height: 50px;
+  border-radius: 35px;
+  margin: 20px 10px 10px 25px;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 30px;
+  background-color: rgb(255, 255, 255);
+  float: left;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sectionbox {
+  width: 700px;
+  height: 100px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 60px;
+  box-sizing: border-box;
+
+}
+
+#itemtext {
+  margin-top: 0px;
+}
+
+#centertext {
+  text-align: center;
+}
+
+.introbox {
+  width: 700px;
+  height: 75px;
+  background-color: #ffffff;
+  margin-left: 50px;
+  padding-bottom: 5px;
+  padding-top: 10px;
+  font-weight: 600;
+  text-align: center;
+  line-height: 50%;
+  font-size: larger;
+}
+
+#post_A {
+  margin-top: 70px;
+  padding-top: 150px;
+  padding-left: 20px;
+  width: 800px;
+  height: 400px;
+  box-sizing: border-box;
+}
+
+#post_B {
+  padding-top: 35px;
+  width: 600px;
+  height: 50px;
+  margin-left: 75px;
+}
+
+.image {
+  float: left;
+  padding-right: 10px;
+}
+
+.imagebox {
+  width: 200px;
+  height: 150px;
+  border-radius: 20px;
+  background-image: url(images/DINER_01.jpg);
+  background-size: cover;
+  background-position: -10px 0px;
+  margin-left: 10px;
+}
+
+.aboutbox {
+  width: 400px;
+  float: right;
+}
+
+#section {
+  margin-left: 20%;
+}
+
+#section2 {
+  margin-left: 40%;
+}
+
+.orderqtybox {
+  width: 400px;
+  height: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  border-radius: 30px;
+  background-color: lightblue;
+  display: flex;
+}
+
+.oqb_setion_01 {
+  width: 200px;
+  height: 12px;
+}
+
+.oqb_setion_02 {
+  width: 50px;
+  height: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.visited {
+text-decoration: none;
+transform: none;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
